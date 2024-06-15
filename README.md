@@ -31,8 +31,6 @@ Contributions are welcome! If you have suggestions for improvements, please crea
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Support
-If you encounter any issues or have questions about this plugin, please open an issue on this repository or contact the maintainer directly at your-email@example.com.
 
 Acknowledgments
 WooCommerce - The open-source eCommerce platform for WordPress.
